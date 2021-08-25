@@ -1,6 +1,6 @@
-Code solution of LeetCode questions
+**Code solution of LeetCode questions**
 
-LeetCode Profile: https://leetcode.com/ck220698/
+**LeetCode Profile:** https://leetcode.com/ck220698/
 
-Codes: 
+#### **Codes: 
 1. Two Sum : https://leetcode.com/problems/two-sum/
