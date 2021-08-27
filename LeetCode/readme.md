@@ -3,4 +3,6 @@
 ### LeetCode Profile: https://leetcode.com/ck220698/
 
 #### Codes:
-  1. Two Sum : https://leetcode.com/problems/two-sum/
+  1. Two Sum: https://leetcode.com/problems/two-sum/
+  2. Build Array from Permutation: https://leetcode.com/problems/build-array-from-permutation/
+  3. 
