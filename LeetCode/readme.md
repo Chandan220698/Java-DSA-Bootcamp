@@ -22,8 +22,8 @@
 19. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
 20. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) (*0ms Runtime beats 100%, but Hardcoded*)
 21. [Two Sum](https://leetcode.com/problems/two-sum/) (*Need optimisation*)
-22. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
-23. [Saddle Point In Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
+22. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) (*0ms, Runtime beats 100%*)
+23. [Saddle Point In Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)  (*!Done*)
 
 ### Medium
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
