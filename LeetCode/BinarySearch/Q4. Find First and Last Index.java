@@ -4,7 +4,9 @@ class Solution {
         int[] ans = {-1, -1};
         
         ans[0] = search(nums, target, true);    // True to get the start index of target element
-        ans[1] = search(nums, target, false);   // False to get the start index of target element
+        if(ans[0] != -1){
+            ans[1] = search(nums, target, false);   // False to get the start index of target element
+        }
         
         return ans;
     }
