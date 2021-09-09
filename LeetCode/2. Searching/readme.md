@@ -8,7 +8,7 @@
 5. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) *(0ms, Runtime Beats 100%)*
 6. [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)
 7. [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
-- [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+8. [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
